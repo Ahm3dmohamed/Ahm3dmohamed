@@ -2,255 +2,173 @@
 
 # Ahmed Mohamed
 
-### Flutter Mobile Engineer • Clean Architecture • AI Applications • Firebase
+### Flutter Mobile Engineer | Clean Architecture Expert | AI-Driven Applications
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Flutter+Mobile+Engineer;Building+Beautiful+Cross-Platform+Apps;Clean+Architecture+%7C+BLoC+%7C+MVVM;AI+Powered+Applications;Firebase+%7C+REST+API+%7C+Supabase;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=29&duration=3200&pause=800&color=22C55E&center=true&vCenter=true&width=950&lines=Senior+Flutter+Engineer;Crafting+Scalable+Cross-Platform+Solutions;Clean+Architecture+%7C+BLoC+%7C+MVVM;AI-Powered+Mobile+Experiences;Firebase+%7C+Supabase+%7C+REST+APIs;Building+Products+That+Scale" />
 
 <p>
-
 <a href="mailto:ahm3dmohamed@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/Ahm3dmohamed">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-mohamed-21a812265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 </p>
 
-![](https://komarev.com/ghpvc/?username=Ahm3dmohamed&style=for-the-badge&color=22c55e)
+![](https://komarev.com/ghpvc/?username=Ahm3dmohamed&style=for-the-badge&color=22c55e&label=Profile+Views)
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
-I'm a Flutter Mobile Engineer passionate about building production-ready mobile applications with clean architecture, scalable codebases, and exceptional user experiences.
-
+** I'm a Flutter Mobile Engineer passionate about building production-ready mobile applications with clean architecture, scalable codebases, and exceptional user experiences.
 I enjoy transforming UI designs into pixel-perfect Flutter applications while writing maintainable and reusable code.
 
-Currently focused on
+I focus on writing production-grade code that delivers exceptional user experiences while ensuring long-term maintainability and performance.
 
-- Flutter
-- Clean Architecture
-- BLoC & Cubit
-- Firebase
-- REST APIs
-- AI Integration
-- Performance Optimization
+### Currently Mastering
+- Advanced Flutter Architecture Patterns  
+- AI/ML Integration in Mobile Apps  
+- High-Performance & Optimized Applications  
+- Scalable Backend Services (Firebase, Supabase)
 
 ---
 
-# Flutter Expertise
+## Flutter Expertise
 
-✅ Cross Platform Development
+**Core Strengths**
 
-✅ Pixel Perfect UI
-
-✅ Responsive Design
-
-✅ Clean Architecture
-
-✅ MVVM
-
-✅ BLoC
-
-✅ Cubit
-
-✅ SOLID Principles
-
-✅ REST APIs
-
-✅ Dio
-
-✅ Firebase
-
-✅ Local Storage
-
-✅ Hive
-
-✅ SharedPreferences
-
-✅ SQLite
-
-✅ Git
+✅ **Clean Architecture** • **SOLID Principles**  
+✅ **Pixel-Perfect UI/UX** • **Complex Animations**  
+✅ **BLoC & Cubit** • **MVVM**  
+✅ **State Management** • **Dependency Injection**  
+✅ **REST APIs** • **Dio** •  
+✅ **Firebase** • **Supabase** • **Real-time Databases**  
+✅ **Local Storage** (Hive, SQLite, SharedPreferences)  
+✅ **Google Maps & Location Services**  
+✅ **Performance Optimization** & **App Size Reduction**  
+✅ **Git** • **CI/CD** • **Testing (Unit + Widget)**
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-### Languages
-
+### Languages & Frameworks
 <p>
-
-<img src="https://skillicons.dev/icons?i=dart,flutter,cpp,python"/>
-
+<img src="https://skillicons.dev/icons?i=dart,flutter,cpp,python&perline=8" />
 </p>
 
 ### Backend & Cloud
-
 <p>
-
-<img src="https://skillicons.dev/icons?i=firebase,supabase"/>
-
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres&perline=6" />
 </p>
 
-### Tools
-
+### Tools & Others
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,androidstudio,postman,firebase&perline=8" />
 </p>
 
 ---
 
-# Featured Project
+## Featured Projects
 
-# AOUN
+### **AOUN** — AI-Powered Donation Platform
+**AI-driven platform** connecting donors with charities, hospitals, and individuals in need through intelligent recommendations.
 
-## AI-Powered Donation Platform
+**Tech**: Flutter • Clean Architecture • BLoC • Firebase • Google Maps • OpenStreetMap • AI Chat Assistant
 
-A modern Flutter application connecting donors with charities, hospitals, and people in need through intelligent recommendations and AI-powered assistance.
+**Key Features**: Smart recommendations, Real-time campaigns, Hospital finder, Institution management, AI assistant.
 
-### Features
-
-- AI Chat Assistant
-- Smart Donation Recommendation
-- Authentication
-- Google Maps
-- OpenStreetMap
-- Real-Time Location
-- Campaign Management
-- Hospital Finder
-- Institution Accounts
-- Responsive UI
-- Clean Architecture
-- BLoC State Management
-- REST APIs
-- Firebase Integration
+**Repository**: [View AOUN →](https://github.com/Ahm3dmohamed/aoun) *(replace with actual link if different)*
 
 ---
 
-## Project Gallery
+### **ShopSphere** — Modern E-commerce Platform
+Full-featured e-commerce application with seamless shopping experience, advanced filtering, and smooth animations.
 
-| Login | Home |
-|-------|------|
-| Add your screenshot | Add your screenshot |
+**Tech**: Flutter • Clean Architecture • Firebase • REST APIs • State Management
 
-| AI Chat | Campaigns |
-|-------|------|
-| Add screenshot | Add screenshot |
+**[→ View ShopSphere](https://github.com/Ahm3dmohamed/ShopSphere)**
 
 ---
 
-# Other Flutter Projects
+### **Flower App** — Elegant Plant Care & E-commerce App
+Beautiful Flutter application focused on flower/plant shopping and care management.
 
-## Smart Shop
+**Tech**: Flutter • Clean Architecture • BLoC/Cubit
 
-Modern e-commerce application
-
-Flutter • Firebase • Clean Architecture
-
----
-
-## Bookly
-
-Book reading application
-
-Flutter • REST API • Animations
+**[→ View Flower App](https://github.com/Ahm3dmohamed/FLOWER_APP/tree/main/flower__app)**
 
 ---
 
-## Movie App
+## Other Notable Projects
 
-Movie browsing platform
-
-Flutter • API • BLoC
-
----
-
-## Todo App
-
-Task management application
-
-Flutter • Local Storage
+- **Bookly** — Book discovery & reading app (REST API + Animations)
+- **Movie App** — Movie browsing platform with BLoC
+- **Smart Todo** — Advanced task manager with local persistence
 
 ---
 
-# GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahm3dmohamed&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm3dmohamed&layout=compact&theme=tokyonight"/>
-
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ahm3dmohamed&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahm3dmohamed&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Ahm3dmohamed&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=Ahm3dmohamed&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ahm3dmohamed&theme=tokyonight&row=1&column=6"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Ahm3dmohamed&theme=tokyonight&row=1&column=6&margin-w=15" />
 </p>
 
 ---
 
-# What I'm Working On
+## Currently Working On
 
-- AI-powered Flutter Applications
-- Scalable Mobile Architectures
-- Open Source Flutter Packages
-- Performance Optimization
-- Beautiful UI/UX Experiences
+- AI-Powered Mobile Solutions
+- Open Source Flutter Packages & Tools
+- Advanced Animation & Micro-interaction Systems
+- Scalable Architecture Best Practices
 
 ---
 
-# Let's Connect
+## Let's Connect
 
 <p align="center">
-
 <a href="mailto:ahm3dmohamed@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
-
-<a href="https://linkedin.com/in/YOUR_LINK">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-mohamed-21a812265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="https://github.com/Ahm3dmohamed">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile ❤️
+### Thank you for visiting my profile! ❤️
 
-If you like my work, consider giving a ⭐ to my repositories.
+If you find my work valuable, please consider starring my repositories ⭐
+
+**Open to collaborations and exciting Flutter opportunities.**
 
 </div>
