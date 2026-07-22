@@ -200,14 +200,9 @@ Beautiful Flutter application for browsing flowers and plants.
 ## 📚 Bookly
 
 Book browsing application using REST APIs.
-
+🔗 https://github.com/Ahm3dmohamed/bookly
 ---
 
-## 🎬 Movie App
-
-Movie discovery application with modern Flutter UI.
-
----
 
 # 📊 GitHub Analytics
 
@@ -272,6 +267,20 @@ Movie discovery application with modern Flutter UI.
 <a href="https://github.com/Ahm3dmohamed">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+<a href="https://wa.me/201032695113">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+📧 **Email:** <a href="mailto:ahm3dmohamed@gmail.com">ahm3dmohamed@gmail.com</a>
+
+📱 **WhatsApp:** +20 103 269 5113
+
+💼 **LinkedIn:** https://www.linkedin.com/in/ahmed-mohamed-21a812265
 
 </p>
 
